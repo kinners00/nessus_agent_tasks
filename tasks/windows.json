@@ -1,0 +1,10 @@
+{
+  "description": "Downloads, installs and configures Tenable nessus agent for Windows",
+  "input_method": "powershell",
+  "parameters": {
+    "group": {
+      "description": "Nessus group you would like to link agents to",
+      "type": "Any"
+    }
+  }
+}

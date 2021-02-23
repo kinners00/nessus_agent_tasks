@@ -1,0 +1,10 @@
+{
+  "description": "Downloads, installs and configures Tenable nessus agent for Linux",
+  "input_method": "environment",
+  "parameters": {
+    "group": {
+      "description": "Nessus group you would like to link agents to",
+      "type": "Any"
+    }
+  }
+}
